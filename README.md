@@ -10,7 +10,7 @@ My first solo project developed with React
 
 after cloning...
 
-npm install
+<p>npm install</p>
 npm run dev
 
 # If you found this project useful, then please consider giving it a ⭐ ❤️
